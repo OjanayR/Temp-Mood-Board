@@ -1,71 +1,20 @@
-# Getting Started with Create React App
+# Temp Mood Board
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Temp Mood Board is a weather app built using React JS. This app fetches an API and displays the weather and *temperature around the world. Just type in your desired country/city. In addition, depending on the city/country temperature, a differnt background image will appear, associating with the forcast. *Temperatures are read in celsius. 
 
-## Available Scripts
+## Technologies Used
+React JS
+Open Weather Map API
+Google Fonts
+Unsplash
 
-In the project directory, you can run:
+## Wireframe/Screenshots
+![Screen Shot 2021-01-22 at 8 51 56 PM](https://user-images.githubusercontent.com/69225985/105565277-117b4900-5cf4-11eb-8e7d-c683f0eba8dc.png)
 
-### `yarn start`
+![Screen Shot 2021-01-22 at 8 42 05 PM](https://user-images.githubusercontent.com/69225985/105565283-17712a00-5cf4-11eb-8721-0fc82bc86829.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Screen Shot 2021-01-22 at 8 43 35 PM](https://user-images.githubusercontent.com/69225985/105565289-1e983800-5cf4-11eb-8c78-4bf9effd9c48.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Click here for the App
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# outsidenyc
