@@ -1,6 +1,6 @@
 # Temp Mood Board
 
-Temp Mood Board is a weather app built using React JS. This app fetches an API and displays the weather and *temperature around the world. Just type in your desired country/city. In addition, depending on the city/country temperature, a differnt background image will appear, associating with the forcast. *Temperatures are read in celsius. 
+Temp Mood Board is a weather app built using React JS. This app fetches an API and displays the weather and *temperatures around the world. Just type in your desired country/city. In addition, depending on the city/country temperature, a different background image will appear, associating with the forecast. *Temperatures are read in celsius. 
 
 ## Technologies Used
 React JS
